@@ -18,3 +18,6 @@ read_excel("~/../Downloads/australian_marriage_law_postal_survey_2017_-_response
   .[order(CED_2016)] %>%
   fwrite("2017-marriage-survey-CED__Response_count.csv")
   
+CED__CountryOfBirth
+
+
