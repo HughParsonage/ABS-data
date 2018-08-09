@@ -25,6 +25,8 @@ SLA_JTW_2006 <-
   .[SLA_Home != "Total"] %>%
   setnames(1:2, c("O_SLA_NAME06", "D_SLA_NAME06")) %>%
   .[]
+
+fwrite(SLA_JTW_2006, "../O_SLA_NAME06-D_SLA_NAME06-workers.csv")
 # 
 # SA2_JTW_2011 <-
 #   fread("SA2-by-DJZ-2011/SA2-by-DJZ-2011.csv", header = FALSE, na.strings = c("")) %>%
