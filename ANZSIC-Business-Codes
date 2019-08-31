@@ -1,0 +1,599 @@
+1110		Nursery Production (Under Cover)
+1120		Nursery Production (Outdoors)
+1130		Turf Growing
+1140		Floriculture Production (Under Cover)
+1150		Floriculture Production (Outdoors)
+1210		Mushroom Growing
+1220		Vegetable Growing (Under Cover)
+1230		Vegetable Growing (Outdoors)
+1310		Grape Growing
+1320		Kiwifruit Growing
+1330		Berry Fruit Growing
+1340		Apple and Pear Growing
+1350		Stone Fruit Growing
+1360		Citrus Fruit Growing
+1370		Olive Growing
+1390		Other Fruit and Tree Nut Growing
+1410		Sheep Farming (Specialised)
+1420		Beef Cattle Farming (Specialised)
+1430		Beef Cattle Feedlots (Specialised)
+1440		Sheep-Beef Cattle Farming
+1450		Grain-Sheep or Grain-Beef Cattle Farming
+1460		Rice Growing
+1490		Other Grain Growing
+1510		Sugar Cane Growing
+1520		Cotton Growing
+1590		Other Crop Growing n.e.c.
+1600		Dairy Cattle Farming
+1710		Poultry Farming (Meat)
+1720		Poultry Farming (Eggs)
+1800		Deer Farming
+1910		Horse Farming
+1920		Pig Farming
+1930		Beekeeping
+1990		Other Livestock Farming n.e.c.
+2011		Oyster Farming
+2019		Offshore Longline and Rack Aquaculture n.e.c.
+2020		Offshore Caged Aquaculture
+2031		Lobster Farming or Breeding
+2039		Other Onshore Aquaculture
+3010		Forestry
+3020		Logging
+4111		Rock Lobster Fishing
+4112		Crab Potting
+4120		Prawn Fishing
+4130		Line Fishing
+4140		Fish Trawling, Seining and Netting
+4191		Abalone Fishing
+4192		Marine Fishing n.e.c.
+4199		Other Fishing n.e.c.
+4200		Hunting and Trapping
+5100		Forestry Support Services
+5210		Cotton Ginning
+5220		Shearing Services
+5290		Other Agriculture and Fishing Support Services
+6000		Coal Mining
+7000		Oil and Gas Extraction
+8010		Iron Ore Mining
+8020		Bauxite Mining
+8030		Copper Ore Mining
+8040		Gold Ore Mining
+8050		Mineral Sand Mining
+8060		Nickel Ore Mining
+8070		Silver-Lead-Zinc Ore Mining
+8090		Other Metal Ore Mining
+9110		Gravel and Sand Quarrying
+9190		Other Construction Material Mining
+9901		Diamond Mining
+9902		Opal Mining
+9903		Gemstone Mining (Except Opals and Diamonds)
+9909		Other Non-Metallic Mineral Mining and Quarrying n.e.c.
+10111		Petroleum Exploration (Own Account)
+10112		Petroleum Exploration Services
+10121		Mineral Exploration (Own Account)
+10122		Mineral Exploration Services
+10900		Other Mining Support Services
+11110		Meat Processing
+11120		Poultry Processing
+11130		Cured Meat and Smallgoods Manufacturing
+11200		Seafood Processing
+11310		Milk and Cream Processing
+11320		Ice Cream Manufacturing
+11330		Cheese and Other Dairy Product Manufacturing
+11400		Fruit and Vegetable Processing
+11500		Oil and Fat Manufacturing
+11610		Grain Mill Product Manufacturing
+11620		Cereal, Pasta and Baking Mix Manufacturing
+11710		Bread Manufacturing (Factory based)
+11720		Cake and Pastry Manufacturing (Factory based)
+11730		Biscuit Manufacturing (Factory based)
+11740		Bakery Product Manufacturing (Non-factory based)
+11810		Sugar Manufacturing
+11820		Confectionery Manufacturing
+11910		Potato, Corn and Other Crisp Manufacturing
+11920		Prepared Animal and Bird Feed Manufacturing
+11990		Other Food Product Manufacturing n.e.c.
+12110		Soft Drink, Cordial and Syrup Manufacturing
+12120		Beer Manufacturing
+12130		Spirit Manufacturing
+12140		Wine and Other Alcoholic Beverage Manufacturing
+12200		Cigarette and Tobacco Product Manufacturing
+13110		Wool Scouring
+13120		Natural Textile Manufacturing
+13130		Synthetic Textile Manufacturing
+13200		Leather Tanning, Fur Dressing and Leather Product Manufacturing
+13310		Textile Floor Covering Manufacturing
+13320		Rope, Cordage and Twine Manufacturing
+13330		Cut and Sewn Textile Product Manufacturing
+13340		Textile Finishing and Other Textile Product Manufacturing
+13400		Knitted Product Manufacturing
+13510		Clothing Manufacturing
+13520		Footwear Manufacturing
+14110		Log Sawmilling
+14120		Wood Chipping
+14130		Timber Resawing and Dressing
+14910		Prefabricated Wooden Building Manufacturing
+14920		Wooden Structural Fitting and Component Manufacturing
+14930		Veneer and Plywood Manufacturing
+14940		Reconstituted Wood Product Manufacturing
+14990		Other Wood Product Manufacturing n.e.c.
+15100		Pulp, Paper and Paperboard Manufacturing
+15210		Corrugated Paperboard and Paperboard Container Manufacturing
+15220		Paper Bag Manufacturing
+15230		Paper Stationery Manufacturing
+15240		Sanitary Paper Product Manufacturing
+15290		Other Converted Paper Product Manufacturing
+16110		Printing
+16120		Printing Support Services
+16200		Reproduction of Recorded Media
+17010		Petroleum Refining and Petroleum Fuel Manufacturing
+17090		Other Petroleum and Coal Product Manufacturing
+18110		Industrial Gas Manufacturing
+18120		Basic Organic Chemical Manufacturing
+18130		Basic Inorganic Chemical Manufacturing
+18210		Synthetic Resin and Synthetic Rubber Manufacturing
+18290		Other Basic Polymer Manufacturing
+18310		Fertiliser Manufacturing
+18320		Pesticide Manufacturing
+18410		Human Pharmaceutical and Medicinal Product Manufacturing
+18420		Veterinary Pharmaceutical and Medicinal Product Manufacturing
+18510		Cleaning Compound Manufacturing
+18520		Cosmetic and Toiletry Preparation Manufacturing
+18910		Photographic Chemical Product Manufacturing
+18920		Explosive Manufacturing
+18990		Other Basic Chemical Product Manufacturing n.e.c.
+19110		Polymer Film and Sheet Packaging Material Manufacturing
+19120		Rigid and Semi-Rigid Polymer Product Manufacturing
+19130		Polymer Foam Product Manufacturing
+19140		Tyre Manufacturing
+19150		Adhesive Manufacturing
+19160		Paint and Coatings Manufacturing
+19190		Other Polymer Product Manufacturing
+19200		Natural Rubber Product Manufacturing
+20100		Glass and Glass Product Manufacturing
+20210		Clay Brick Manufacturing
+20290		Other Ceramic Product Manufacturing
+20310		Cement and Lime Manufacturing
+20320		Plaster Product Manufacturing
+20330		Ready-Mixed Concrete Manufacturing
+20340		Concrete Product Manufacturing
+20900		Other Non-Metallic Mineral Product Manufacturing
+21100		Iron Smelting and Steel Manufacturing
+21210		Iron and Steel Casting
+21220		Steel Pipe and Tube Manufacturing
+21310		Alumina Production
+21320		Aluminium Smelting
+21330		Copper, Silver, Lead and Zinc Smelting and Refining
+21390		Other Basic Non-Ferrous Metal Manufacturing
+21410		Non-Ferrous Metal Casting
+21420		Aluminium Rolling, Drawing, Extruding
+21490		Other Basic Non-Ferrous Metal Product Manufacturing
+22100		Iron and Steel Forging
+22210		Structural Steel Fabricating
+22220		Prefabricated Metal Building Manufacturing
+22230		Architectural Aluminium Product Manufacturing
+22240		Metal Roof and Guttering Manufacturing (except Aluminium)
+22290		Other Structural Metal Product Manufacturing
+22310		Boiler, Tank and Other Heavy Gauge Metal Container Manufacturing
+22390		Other Metal Container Manufacturing
+22400		Sheet Metal Product Manufacturing (except Metal Structural and Container Products)
+22910		Spring and Wire Product Manufacturing
+22920		Nut, Bolt, Screw and Rivet Manufacturing
+22930		Metal Coating and Finishing
+22990		Other Fabricated Metal Product Manufacturing n.e.c.
+23110		Motor Vehicle Manufacturing
+23120		Motor Vehicle Body and Trailer Manufacturing
+23130		Automotive Electrical Component Manufacturing
+23190		Other Motor Vehicle Parts Manufacturing
+23910		Shipbuilding and Repair Services
+23920		Boatbuilding and Repair Services
+23930		Railway Rolling Stock Manufacturing and Repair Services
+23940		Aircraft Manufacturing and Repair Services
+23990		Other Transport Equipment Manufacturing n.e.c.
+24110		Photographic, Optical and Ophthalmic Equipment Manufacturing
+24120		Medical and Surgical Equipment Manufacturing
+24190		Other Professional and Scientific Equipment Manufacturing
+24211		Computer and Related Equipment Manufacturing
+24219		Business Machine (Electronic) Manufacturing n.e.c.
+24220		Communication Equipment Manufacturing
+24290		Other Electronic Equipment Manufacturing
+24310		Electric Cable and Wire Manufacturing
+24320		Electric Lighting Equipment Manufacturing
+24390		Other Electrical Equipment Manufacturing
+24410		Whiteware Appliance Manufacturing
+24490		Other Domestic Appliance Manufacturing
+24510		Pump and Compressor Manufacturing
+24520		Fixed Space Heating, Cooling and Ventilation Equipment Manufacturing
+24610		Agricultural Machinery and Equipment Manufacturing
+24620		Mining and Construction Machinery Manufacturing
+24630		Machine Tool and Parts Manufacturing
+24690		Other Specialised Machinery and Equipment Manufacturing
+24910		Lifting and Material Handling Equipment Manufacturing
+24990		Other Machinery and Equipment Manufacturing n.e.c.
+25110		Wooden Furniture and Upholstered Seat Manufacturing
+25120		Metal Furniture Manufacturing
+25130		Mattress Manufacturing
+25190		Other Furniture Manufacturing
+25910		Jewellery and Silverware Manufacturing
+25920		Toy, Sporting and Recreational Product Manufacturing
+25990		Other Manufacturing n.e.c.
+26110		Fossil Fuel Electricity Generation
+26120		Hydro-Electricity Generation
+26190		Other Electricity Generation
+26200		Electricity Transmission
+26300		Electricity Distribution
+26400		On Selling Electricity and Electricity Market Operation
+27000		Gas Supply
+28110		Water Supply
+28120		Sewerage and Drainage Services
+29110		Solid Waste Collection Services
+29190		Other Waste Collection Services
+29210		Waste Treatment and Disposal Services
+29220		Waste Remediation and Materials Recovery Services
+30110		House Construction
+30190		Other Residential Building Construction
+30200		Non-Residential Building Construction
+31010		Road and Bridge Construction
+31091		Swimming and Spa Pool Construction or Installation (Below Ground Concrete or Fibreglass)
+31099		Other Heavy and Civil Engineering Construction n.e.c.
+32110		Land Development and Subdivision
+32120		Site Preparation Services
+32210		Concreting Services
+32220		Bricklaying Services
+32230		Roofing Services
+32240		Structural Steel Erection Services
+32310		Plumbing Services
+32320		Electrical Services
+32330		Air Conditioning and Heating Services
+32340		Fire and Security Alarm Installation Services
+32390		Other Building Installation Services
+32410		Plastering and Ceiling Services
+32420		Carpentry Services
+32430		Tiling and Carpeting Services
+32440		Painting and Decorating Services
+32450		Glazing Services
+32910		Landscape Construction Services
+32920		Hire of Construction Machinery with Operator
+32990		Other Construction Services n.e.c.
+33110		Wool Wholesaling
+33120		Cereal Grain Wholesaling
+33190		Other Agricultural Product Wholesaling
+33210		Petroleum Product Wholesaling
+33221		Metal Waste and Scrap Wholesaling
+33229		Other Metal and Mineral Wholesaling
+33230		Industrial and Agricultural Chemical Product Wholesaling
+33310		Timber Wholesaling
+33320		Plumbing Goods Wholesaling
+33390		Other Hardware Goods Wholesaling
+34110		Agricultural and Construction Machinery Wholesaling
+34190		Other Specialised Industrial Machinery and Equipment Wholesaling
+34910		Professional and Scientific Goods Wholesaling
+34920		Computer and Computer Peripheral Wholesaling
+34930		Telecommunication Goods Wholesaling
+34940		Other Electrical and Electronic Goods Wholesaling
+34990		Other Machinery and Equipment Wholesaling n.e.c.
+35010		Car Wholesaling
+35020		Commercial Vehicle Wholesaling
+35030		Trailer and Other Motor Vehicle Wholesaling
+35040		Motor Vehicle New Parts Wholesaling
+35050		Motor Vehicle Dismantling and Used Parts Wholesaling
+36010		General Line Grocery Wholesaling
+36020		Meat, Poultry and Smallgoods Wholesaling
+36030		Dairy Produce Wholesaling
+36040		Fish and Seafood Wholesaling
+36050		Fruit and Vegetable Wholesaling
+36061		Liquor Wholesaling
+36062		Tobacco Product Wholesaling
+36090		Other Grocery Wholesaling
+37110		Textile Product Wholesaling
+37120		Clothing and Footwear Wholesaling
+37200		Pharmaceutical and Toiletry Goods Wholesaling
+37310		Furniture and Floor Covering Wholesaling
+37320		Jewellery and Watch Wholesaling
+37330		Kitchen and Diningware Wholesaling
+37340		Toy and Sporting Goods Wholesaling
+37350		Book and Magazine Wholesaling
+37360		Paper Product Wholesaling
+37390		Other Goods Wholesaling n.e.c.
+38000		Commission-Based Wholesaling
+39110		Car Retailing
+39120		Motor Cycle Retailing
+39130		Trailer and Other Motor Vehicle Retailing
+39211		Motor Vehicle Battery Retailing
+39219		Motor Vehicle Parts Retailing n.e.c.
+39220		Tyre Retailing
+40000		Fuel Retailing
+41100		Supermarket and Grocery Stores
+41211		Meat Retailing (Except Poultry or Canned Meat)
+41212		Fresh Fish Retailing
+41213		Fresh Poultry Retailing
+41220		Fruit and Vegetable Retailing
+41230		Liquor Retailing
+41290		Other Specialised Food Retailing
+42110		Furniture Retailing
+42120		Floor Coverings Retailing
+42130		Houseware Retailing
+42140		Manchester and Other Textile Goods Retailing
+42210		Electrical, Electronic and Gas Appliance Retailing
+42220		Computer and Computer Peripheral Retailing
+42290		Other Electrical and Electronic Goods Retailing
+42310		Hardware and Building Supplies Retailing
+42320		Garden Supplies Retailing
+42410		Sport and Camping Equipment Retailing
+42420		Entertainment Media Retailing
+42430		Toy and Game Retailing
+42441		Newsagents
+42442		Book Retailing
+42450		Marine Equipment Retailing
+42510		Clothing Retailing
+42520		Footwear Retailing
+42530		Watch and Jewellery Retailing
+42590		Other Personal Accessory Retailing
+42600		Department Stores
+42711		Chemist or Pharmacy Operations
+42712		Cosmetics, Perfumes and Toiletry Goods Retailing (Except Direct Marketing) n.e.c.
+42720		Stationery Goods Retailing
+42731		Pawnbroking
+42732		Antiques Retailing (Except Pawnbroking or Disposal Stores)
+42733		Disposal Stores (Second Hand Goods Retailing Except Pawnbroking and Antiques)
+42740		Flower Retailing
+42791		Swimming Pool and Spa Retailing
+42792		Art Dealers (Including Retail Art Gallery Operation Except by Direct Marketing)
+42793		Adult Sex Shop Operation
+42794		Pets Retailing
+42799		Other Store-Based Retailing n.e.c.
+43101		Cosmetics, Perfumes and Toiletry Goods Retailing by Direct Marketing (Except Commission Based)
+43102		Jewellery Retailing by Direct Marketing (Except Commission Based)
+43109		Non-Store Retailing n.e.c.
+43201		Cosmetics, Perfumes and Toiletry Goods Retailing Commission Based
+43202		Jewellery Retailing Commission Based
+43209		Retail Commission-Based Buying and/or Selling n.e.c.
+44000		Accommodation
+45110		Cafes and Restaurants
+45120		Takeaway Food Services
+45130		Catering Services
+45200		Pubs, Taverns and Bars
+45301		Licensed Clubs (Hospitality) Operation
+45302		Unlicensed Clubs (Hospitality) Operation
+46100		Road Freight Transport
+46210		Interurban and Rural Bus Transport
+46220		Urban Bus Transport (Including Tramway)
+46231		Taxi Service Operation
+46239		Other Road Transport (Except Taxi)
+47100		Rail Freight Transport
+47200		Rail Passenger Transport
+48100		Water Freight Transport
+48200		Water Passenger Transport
+49001		Aircraft Charter and Lease
+49009		Other Air and Space Transport
+50100		Scenic and Sightseeing Transport
+50210		Pipeline Transport
+50290		Other Transport n.e.c.
+51010		Postal Services
+51020		Courier Pick-up and Delivery Services
+52110		Stevedoring Services
+52120		Port and Water Transport Terminal Operations
+52190		Other Water Transport Support Services
+52200		Airport Operations and Other Air Transport Support Services
+52910		Customs Agency Services
+52920		Freight Forwarding Services
+52991		Taxi Driver
+52999		Other Transport Support Services n.e.c.
+53010		Grain Storage Services
+53090		Other Warehousing and Storage Services
+54110		Newspaper Publishing
+54120		Magazine and Other Periodical Publishing
+54130		Book Publishing
+54140		Directory and Mailing List Publishing
+54190		Other Publishing (except Software, Music and Internet)
+54200		Software Publishing
+55110		Motion Picture and Video Production
+55120		Motion Picture and Video Distribution
+55130		Motion Picture Exhibition
+55140		Post-production Services and Other Motion Picture and Video Activities
+55210		Music Publishing
+55220		Music and Other Sound Recording Activities
+56100		Radio Broadcasting
+56210		Free-to-Air Television Broadcasting
+56220		Cable and Other Subscription Broadcasting
+57000		Internet Publishing and Broadcasting
+58010		Wired Telecommunications Network Operation
+58020		Other Telecommunications Network Operation
+58090		Other Telecommunications Services
+59100		Internet Service Providers and Web Search Portals
+59210		Data Processing and Web Hosting Services
+59220		Electronic Information Storage Services
+60100		Libraries and Archives
+60200		Other Information Services
+62100		Central Banking
+62210		Banking
+62220		Building Society Operation
+62230		Credit Union Operation
+62290		Other Depository Financial Intermediation
+62300		Non-Depository Financing
+62400		Financial Asset Investing
+63100		Life Insurance
+63210		Health Insurance
+63220		General Insurance
+63300		Superannuation Funds
+64110		Financial Asset Broking Services
+64190		Other Auxiliary Finance and Investment Services
+64200		Auxiliary Insurance Services
+66110		Passenger Car Rental and Hiring
+66190		Other Motor Vehicle and Transport Equipment Rental and Hiring
+66200		Farm Animal and Bloodstock Leasing
+66310		Heavy Machinery and Scaffolding Rental and Hiring
+66320		Video and Other Electronic Media Rental and Hiring
+66390		Other Goods and Equipment Rental and Hiring n.e.c.
+66400		Non-Financial Intangible Assets (Except Copyrights) Leasing
+67110		Residential Property Operators
+67120		Non-Residential Property Operators
+67200		Real Estate Services
+69100		Scientific Research Services
+69210		Architectural Services
+69220		Surveying and Mapping Services
+69230		Engineering Design and Engineering Consulting Services
+69240		Other Specialised Design Services
+69250		Scientific Testing and Analysis Services
+69310		Legal Services
+69320		Accounting Services
+69400		Advertising Services
+69500		Market Research and Statistical Services
+69610		Corporate Head Office Management Services
+69621		Environmental Management Consultancy
+69622		OHAS Consultancy
+69629		Management Advice and Related Consulting Services n.e.c.
+69700		Veterinary Services
+69910		Professional Photographic Services
+69990		Other Professional, Scientific and Technical Services n.e.c.
+70000		Computer System Design and Related Services
+72110		Employment Placement and Recruitment Services
+72120		Labour Supply Services
+72200		Travel Agency and Tour Arrangement Services
+72910		Office Administrative Services
+72920		Document Preparation Services
+72930		Credit Reporting and Debt Collection Services
+72940		Call Centre Operation
+72990		Other Administrative Services n.e.c.
+73110		Building and Other Industrial Cleaning Services
+73120		Building Pest Control Services
+73130		Gardening Services
+73200		Packaging Services
+75100		Central Government Administration
+75200		State Government Administration
+75300		Local Government Administration
+75400		Justice
+75510		Domestic Government Representation
+75520		Foreign Government Representation
+76000		Defence
+77110		Police Services
+77120		Investigation and Security Services
+77130		Fire Protection and Other Emergency Services
+77140		Correctional and Detention Services
+77190		Other Public Order and Safety Services
+77200		Regulatory Services
+80100		Preschool Education
+80210		Primary Education
+80220		Secondary Education
+80230		Combined Primary and Secondary Education
+80240		Special School Education
+81011		Computer Training (Vocational)
+81019		Technical and Vocational Education and Training n.e.c.
+81020		Higher Education
+82110		Sports and Physical Recreation Instruction
+82120		Arts Education
+82191		Flying School Operation
+82199		Adult, Community and Other Education n.e.c.
+82200		Educational Support Services
+84010		Hospitals (Except Psychiatric Hospitals)
+84020		Psychiatric Hospitals
+85110		General Practice Medical Services
+85121		Anaesthetist (Own Account)
+85122		Specialist Medical Clinic Operation
+85123		Dermatologist (Own Account)
+85124		Gynaecologist and Obstetrician (Own Account)
+85125		Psychiatrist (Own Account)
+85129		Specialist Medical Services n.e.c.
+85201		X-Ray Clinic Operation
+85202		Pathologist (Own Account)
+85203		Radiologist (Own Account)
+85209		Other Pathology and Diagnostic Imaging Services
+85310		Dental Services
+85320		Optometry and Optical Dispensing
+85330		Physiotherapy Services
+85340		Chiropractic and Osteopathic Services
+85391		Complementary and Alternative Services
+85399		Other Allied Health Services (Mainstream)
+85910		Ambulance Services
+85990		Other Health Care Services n.e.c.
+86011		Retirement Village Operation
+86012		Accommodation for the Aged Operation
+86090		Other Residential Care Services
+87100		Child Care Services
+87900		Other Social Assistance Services
+89100		Museum Operation
+89210		Zoological and Botanical Gardens Operation
+89220		Nature Reserves and Conservation Parks Operation
+90010		Performing Arts Operation
+90021		Musicians and Entertainers
+90029		Other Creative Artists, Writers and Performers
+90030		Performing Arts Venue Operation
+91110		Health and Fitness Centres and Gymnasia Operation
+91121		Jockeys
+91122		Professional Basketballers
+91123		Professional Cricketers
+91124		Professional Footballers
+91125		Umpires and Referees
+91126		Professional Sportspersons n.e.c.
+91129		Sports and Physical Recreation Clubs n.e.c.
+91131		Squash and Tennis Court Operation
+91139		Sports and Physical Recreation Venues, Grounds and Facilities Operation n.e.c.
+91140		Sports and Physical Recreation Administrative Service
+91210		Horse and Dog Racing Administration and Track Operation
+91291		Dog Training (Racing)
+91292		Horse Training (Racing)
+91299		Other Horse and Dog Racing Activities
+91310		Amusement Parks and Centres Operation
+91390		Amusement and Other Recreational Activities n.e.c.
+92010		Casino Operation
+92020		Lottery Operation
+92091		Bookmaker
+92092		TAB Agency Operation
+92099		Other Gambling Activities n.e.c.
+94110		Automotive Electrical Services
+94121		Motor Vehicle Windscreen Repair and Service
+94129		Automotive Body, Paint and Interior Repair n.e.c.
+94191		Motor Vehicle Clutch and Brake Repair and Service
+94192		Motor Vehicle Radiator Repair and Service
+94193		Motor Vehicle Muffler and Exhaust Repair and Service
+94199		Other Automotive Repair and Maintenance
+94210		Domestic Appliance Repair and Maintenance
+94220		Electronic (except Domestic Appliance) and Precision Equipment Repair and Maintenance
+94290		Other Machinery and Equipment Repair and Maintenance
+94910		Clothing and Footwear Repair
+94990		Other Repair and Maintenance n.e.c.
+95110		Hairdressing and Beauty Services
+95120		Diet and Weight Reduction Centre Operation
+95200		Funeral, Crematorium and Cemetery Services
+95310		Laundry and Dry-Cleaning Services
+95320		Photographic Film Processing
+95330		Parking Services
+95340		Brothel Keeping and Prostitution Services
+95391		Fortune Telling and Similar Services
+95392		Introduction Agency Services
+95393		Child Minding (Babysitting in the Home)
+95399		Other Personal Services n.e.c.
+95400		Religious Services
+95510		Business and Professional Association Services
+95520		Labour Association Services
+95591		Parents and Citizens Associations
+95599		Other Interest Group Services n.e.c.
+96010		Private Households Employing Staff
+96020		Undifferentiated Goods-Producing Activities of Private Households for Own Use
+96030		Undifferentiated Service-Producing Activities of Private Households for Own Use
+98000		Non-taxable or NIL company returns - no income, expense or balance sheet data present
+99010		Interest on bearer debentures
+99020		Overseas ships freight - section 129 Income Tax Assessment Act 1936 (ITAA 1936)
+99030		Film and video tape royalties - section 136A ITAA 1936, derived by non-residents
+99040		Non-resident insurance company - section 143 ITAA 1936
+99050		Insurance and re-insurance with a non-resident - sections 144 and 148 ITAA 1936
+99060		Consolidation assessment - section 219 ITAA 1936
+99070		Control of non-resident?s money - section 255 ITAA 1936
+99760		Non salary or wage income returned at label E
+99770		Subsidiary return income from PP partnership or trust
+99780		Subsidiary return income from NPP partnership or trust
+99791		Property income - rent
+99792		Property income - interest
+99793		Property income - other
+99990		Industry not stated but with business income
+99991		Industry unknown or not stated (PP Income>Non PP Income)
+99992		Industry unknown or not stated (Non PP Income>PP Income)
+99993		Proforma - No industry question
+99995		QM Code only - a phone call should have been made
+99996		Ceased business
+99997		Clients of; bulk group; or group scheme
+99998		Non-operating trustee
+99999		Non-operating entity (excluding trustees)
+99900		Invalid
+99994		Unable to obtain industry details
+0		Blank
